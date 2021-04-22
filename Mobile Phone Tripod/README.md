@@ -15,5 +15,10 @@ The main 3 axis:
 * Tilt - direct control by screw
 * Roll - direct control by screw
 
+# Components
 
+* Tripod head
 
+* Legs
+
+* Phone holder

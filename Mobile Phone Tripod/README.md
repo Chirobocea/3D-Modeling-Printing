@@ -26,7 +26,7 @@ The main 3 axis:
   * Skeleton
   * Case
   * Extension  
-<img src="https://user-images.githubusercontent.com/72545287/115694829-e4c5e480-a369-11eb-96c1-ceb4e6d9eefd.jpg" width="400"/>
+<img src="https://user-images.githubusercontent.com/72545287/115696492-69653280-a36b-11eb-83d7-b24c868c4cac.jpg" width="400"/>
 
 * Phone holder
   * Main plate

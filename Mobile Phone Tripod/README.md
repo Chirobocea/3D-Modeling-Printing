@@ -16,19 +16,19 @@ The main 3 axis:
 
 # Components
 
-* __Tripod head
+* __Tripod head__
   * Base
   * Roll support
   * Tilt support
 <img src="https://user-images.githubusercontent.com/72545287/115693384-8b10ea80-a368-11eb-8ca0-1fd49fbb505f.jpg" width="400"/>
 
-* __Legs
+* __Legs__
   * Skeleton
   * Case
   * Extension  
 <img src="https://user-images.githubusercontent.com/72545287/115696492-69653280-a36b-11eb-83d7-b24c868c4cac.jpg" width="400"/>
 
-* __Phone holder
+* __Phone holder__
   * Main plate
   * Gathering plate
   * Tilt contact

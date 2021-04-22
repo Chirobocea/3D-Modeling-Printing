@@ -10,25 +10,25 @@ This Mobile Tripod is made to be
 * versatile
 
 The main 3 axis:
-* Pan  - may be controlled by rotating the tripod
-* Tilt - direct control by screw
-* Roll - direct control by screw
+* __Pan__  - may be controlled by rotating the tripod
+* __Tilt__ - direct control by screw
+* __Roll__ - direct control by screw
 
 # Components
 
-* Tripod head
+* __Tripod head
   * Base
   * Roll support
   * Tilt support
 <img src="https://user-images.githubusercontent.com/72545287/115693384-8b10ea80-a368-11eb-8ca0-1fd49fbb505f.jpg" width="400"/>
 
-* Legs
+* __Legs
   * Skeleton
   * Case
   * Extension  
 <img src="https://user-images.githubusercontent.com/72545287/115696492-69653280-a36b-11eb-83d7-b24c868c4cac.jpg" width="400"/>
 
-* Phone holder
+* __Phone holder
   * Main plate
   * Gathering plate
   * Tilt contact

@@ -17,7 +17,7 @@ The main 3 axis:
 # Components
 
 * Tripod head
-![Tripod head](https://user-images.githubusercontent.com/72545287/115693384-8b10ea80-a368-11eb-8ca0-1fd49fbb505f.jpg)
+![Tripod head](https://user-images.githubusercontent.com/72545287/115693384-8b10ea80-a368-11eb-8ca0-1fd49fbb505f.jpg) width=250
 * Legs
 
 * Phone holder

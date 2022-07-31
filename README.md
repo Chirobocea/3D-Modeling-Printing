@@ -1,6 +1,6 @@
 # 3D Modeling & Printing
 
-This repo contains all homeworks and the final project of 3DMP course of Faculty of Mathematics and Computer Since, University of Bucharest.
+This repo contains all homeworks and the final project of 3DMP course of [Faculty of Mathematics and Computer Since, University of Bucharest](https://fmi.unibuc.ro/).
 
 # Programs used:
 * Fusion 360 [3D model]
